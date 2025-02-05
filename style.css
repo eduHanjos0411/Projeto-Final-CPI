@@ -175,6 +175,7 @@ p {
     footer {
         background-color: #201F1F;
         color: white;
+        display: flex;
         text-align: center;
         width: 100%;
         height: 5.5em;
