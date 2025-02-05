@@ -2,3 +2,6 @@ Esse repositório é destinado para armazenar o projeto final da maatéria de co
 
 O link a seguir leva diretamente para o protótipo do site, idealizado no figma:
 https://www.figma.com/design/XP6Va0zpLgmw1BHy1EZfhc/Projeto-Final-CPI?node-id=0-1&t=zXmDNK7fYdSd7uf0-1
+
+Link para o site>
+https://eduhanjos0411.github.io/Projeto-Final-CPI/
