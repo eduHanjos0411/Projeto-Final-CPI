@@ -131,6 +131,10 @@ img {
 
 
 @media screen and (max-width: 500px) {
+
+    p {
+        font-size: 0.87em;
+    }
     .banner {
         height: 200px;
     }
