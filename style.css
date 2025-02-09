@@ -81,21 +81,26 @@ article {
 
 footer {
     background-color: #201F1F;
+    display: flex;
     color: white;
     text-align: center;
     width: 100%;
     height: 5.5em;
-    align-content: center;
+    align-items: center;
     font-size: 1.5em;
 }
 
 .texto-footer {
-    padding: 0em 1em;
+    align-content:center;
 }
 
 img {
     width: 100%;
     height: 30%;
+}
+
+p {
+    width: 100%;
 }
 
 /*************** Estilização navegação história ********************************/
@@ -116,8 +121,8 @@ img {
 
 .arthur {
     align-self: center;
-    width: 30em;
-    height: 20em;
+    width: 40em;
+    height: 30em;
 }
 
 .roubo {
@@ -156,7 +161,6 @@ img {
         height: 50%;
     }
 
-
     h1 {
         text-align: center;
     }
@@ -175,11 +179,18 @@ img {
     footer {
         background-color: #201F1F;
         color: white;
+        display: flex;
         text-align: center;
         width: 100%;
         height: 5.5em;
-        align-content: center;
+        align-items: end;
         font-size: 1em;
+    }
+
+    .texto-footer {
+        align-content: center;
+        align-items: center;
+        align-self: center;
     }
 }
 
@@ -207,7 +218,7 @@ img {
 
     .arthur {
         align-self: center;
-        width: 20em;
+        width: 98%;
         height: 15em;
     }
 
